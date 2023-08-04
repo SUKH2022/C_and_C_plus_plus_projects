@@ -1,0 +1,26 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	char s[20]="BHARATSHARMA";
+	int i;
+	for(i=0;s[i];i++)
+	{
+		puts(s);
+	}
+}
+/*
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+BHARATSHARMA
+
+*/
